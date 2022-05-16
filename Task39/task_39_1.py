@@ -76,7 +76,7 @@ def moves_pc(candies, player, variant_of_game): #ходы бота
             return randint(1, 28)
 
 
-candies = 100
+candies = 2021
 variant_of_game = intro()
 name1 = player_name(1)
 player1 = name1
